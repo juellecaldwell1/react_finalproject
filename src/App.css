@@ -1,0 +1,16 @@
+div{
+background-image: url("../public/images/image-background.jpg");
+height: fit-content; 
+background-size: cover; 
+background-position: center; 
+background-repeat: no-repeat; 
+margin: 0;
+padding: 0;
+}
+
+label{
+  color: white;
+}
+.card{
+background-color: red;
+}

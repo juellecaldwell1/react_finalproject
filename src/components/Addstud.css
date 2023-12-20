@@ -1,0 +1,13 @@
+#AddStudent {
+  border-radius: 5%;
+  box-shadow: 5px 5px 5px 5px #000;
+  border: thin solid black;
+  padding: 5em;
+}
+h3 {
+  color: white;
+}
+.container {
+  max-height: auto;
+  overflow-y: auto; 
+}

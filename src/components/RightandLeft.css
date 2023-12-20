@@ -1,0 +1,19 @@
+
+.container {
+  position: relative;
+
+}
+
+.outside-image {
+  position: absolute;
+  top: 50%;
+  
+}
+
+.left-image {
+  left: -20px; 
+}
+
+.right-image {
+  right: -20px; 
+}
